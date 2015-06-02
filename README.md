@@ -1,6 +1,6 @@
 # Sentry Taiga
 
-A plugin for [Sentry](http://getsentry.com) whish allows issue creation in your [Taiga](https://taiga.io) peojects from errors.
+A plugin for [Sentry](http://getsentry.com) which allows issue creation in your [Taiga](https://taiga.io) projects from errors.
 
 ## Install
 
@@ -22,7 +22,7 @@ And restart Sentry
 
 Once enabled you can configure your settings for the project. You can also include default tags you wish to apply to issues created.
 
-I would recommend you create a specific user for Taiga to use with only `Reporter` priviledges to your projects.
+I would recommend you create a specific user for Taiga to use with only `Reporter` privileges to your projects.
 
 Bugs & Issues
 -------------
